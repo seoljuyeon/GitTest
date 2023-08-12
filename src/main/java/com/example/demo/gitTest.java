@@ -8,5 +8,7 @@ public class gitTest {
         System.out.println("또 커밋 하고");
 
         System.out.println("또 또 하고");
+
+        System.out.println("push, pr 한 담에 또 커밋 푸시 피알 해보기");
     }
 }
