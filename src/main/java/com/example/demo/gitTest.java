@@ -6,5 +6,7 @@ public class gitTest {
         System.out.println("깃 테스트 갈기는 중");
 
         System.out.println("또 커밋 하고");
+
+        System.out.println("또 또 하고");
     }
 }
